@@ -19,7 +19,7 @@ public:
 	void setX(int a) {												//fungsi untuk memberi/mengirim nilai pada x
 		this->x = a;
 	}
-	int getX() {													//fungsi untuk membaca/mengambil nilai dalam x
+	int getX() {													//fungsi untuk membaca/mengambil nilai dalam x 
 		return x;
 	}
 };
